@@ -20,7 +20,7 @@ This is a simple and responsive website built using HTML, CSS, and JavaScript fo
 - script.js → Basic interactivity 
 - images → All used images/icons
 
-🔧 How to Use:
+ How to Use:
 1. Clone this repository or download the ZIP.
 2. Open `index.html` in any web browser.
 3. Customize the content according to your local tutors or coaching center needs.
