@@ -14,7 +14,7 @@ This is a simple and responsive website built using HTML, CSS, and JavaScript fo
 - CSS
 - JavaScript 
 
-📁 Folder Structure:
+ Folder Structure:
 - index.html → Main homepage
 - style.css → All styling rules
 - script.js → Basic interactivity 
