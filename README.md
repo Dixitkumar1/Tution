@@ -9,7 +9,7 @@ This is a simple and responsive website built using HTML, CSS, and JavaScript fo
 - Clean and responsive design
 - Simple frontend-only setup
 
-🛠️ Technologies Used:
+ Technologies Used:
 - HTML
 - CSS
 - JavaScript 
