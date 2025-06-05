@@ -1,4 +1,3 @@
-# Tution
 📚 Tuition Website - Local Tutors Portal
 
 This is a simple and responsive website built using HTML, CSS, and JavaScript for local tuition providers.
