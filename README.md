@@ -3,7 +3,7 @@
 
 This is a simple and responsive website built using HTML, CSS, and JavaScript for local tuition providers.
 
-🌟 Features:
+ Features:
 - Home Page with basic introduction
 - Contact Form (non-functional, placeholder only)
 - Clean and responsive design
